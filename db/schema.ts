@@ -1,0 +1,2 @@
+import {integer,sqliteTable,text,uniqueIndex} from 'drizzle-orm/sqlite-core';
+export const interests=sqliteTable('interests',{id:integer('id').primaryKey({autoIncrement:true}),email:text('email').notNull(),kind:text('kind').notNull(),name:text('name').notNull().default(''),business:text('business').notNull().default(''),message:text('message').notNull().default(''),consent:integer('consent').notNull(),createdAt:integer('created_at').notNull()},t=>[uniqueIndex('interests_email_kind').on(t.email,t.kind)]);
