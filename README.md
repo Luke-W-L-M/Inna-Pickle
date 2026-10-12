@@ -2,9 +2,17 @@
 
 **A little coast at your table.**
 
-A coastal food-brand website introducing Inna Pickle: chunky kelp pickles, with kimchi and sauces imagined for the future range. Scottish inspiration meets Scandinavian simplicity through sea-green colours, illustrated textures and playful typography.
+> Inna Pickle swaps the cucumber for British sea kelp: a crunchy, low-impact pickle grown off the Scottish coast that needs no fresh water, fertiliser or farmland.
 
-[Visit the website](https://inna-pickle.lukelesliemelville.chatgpt.site)
+[![Live site](https://img.shields.io/badge/live%20site-visit-2f6f62)](https://inna-pickle.lukelesliemelville.chatgpt.site)
+![React 19](https://img.shields.io/badge/React-19-61dafb)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers%20%2B%20D1-f38020)
+![Status](https://img.shields.io/badge/status-pre--launch-lightgrey)
+
+The pre-launch brand website for Inna Pickle: chunky kelp pickles, with kimchi and sauces planned for the wider range. Scottish inspiration meets Scandinavian simplicity through sea-green colours, illustrated textures and playful typography.
+
+**[Visit the website →](https://inna-pickle.lukelesliemelville.chatgpt.site)**
 
 ![Inna Pickle coastal brand artwork](public/assets/ocean-background.webp)
 
